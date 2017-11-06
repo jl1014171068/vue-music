@@ -18,4 +18,20 @@ npm run build
 npm run build --report
 ```
 
+###### 前端：Vue.js2.0
+* Vue.js
+* Vue-Router
+* Vuex
+* axios
+* Mint UI
+
+###### 数据来源
+* easy-mock
+* QQ-Music
+
+
+###### 工具和语言
+* Webpack
+* ES6
+* SASS
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
